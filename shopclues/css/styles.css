@@ -1,0 +1,171 @@
+body{
+  background-color: #53BF9D;
+}
+h1{
+  color:#F94C66;
+  text-align:center;
+  font-size: 100px;
+  margin:0 auto 0 auto;
+  border: solid;
+  border-style: double;
+  border-color: #F9CEEE;
+  outline-style:solid;
+  outline-width: thick;
+}
+h3{
+  font-size: 10px;
+  text-align: right;
+}
+h2{
+  color: #F7F5F2
+}
+img{
+  max-width: 5%;
+  max-height: 10%
+}
+hr{
+  border-color: #EDE6DB;
+  border-width: thin;
+}
+.chubby{
+  background-color: #069A8E
+}
+.uzmaki{
+  overflow: hidden;
+  background-color:  #f9eace
+  
+}
+.search{
+  padding-left: 400px;
+  padding-right: 30px;
+  height: 50px;
+  right: 100px;
+}
+.nav{
+  overflow: hidden;
+  background-color: #FAF5E4;
+
+}
+.nav a {
+  display: block;
+  float:left;
+  text-decoration:darkblue;
+  padding: 16px 30px;
+  overflow:hidden;
+ 
+}
+.nav a:visited{
+  background-color: #F4E06D;
+}
+.nav a:hover{
+  background-color: rgb(20, 190, 220);
+  color: black;
+
+}
+.container{
+  background-color: #F7E2D6;
+}
+.fashion{
+  overflow: hidden;
+  background-color: burlywood;
+}
+.fashion a {
+  display: block;
+  float: left;
+  padding: 16px 20px;
+  text-decoration: none;
+}
+.fashion a:hover{
+  background-color: blue;
+  color: black;
+}
+.store{
+  overflow: hidden;
+  background-color: #f9eace;
+}
+.store a{
+  display: block;
+  float: left;
+  padding: 16px 20px;
+  text-decoration: none;
+}
+.store a:hover{
+  background-color: #069A8E;
+  color: black;
+}
+.st{
+  background-color: #069A8E;
+  color: black;
+}
+.ip{
+  margin: 50px;
+  padding: 100px auto 100px auto;
+  width: 200%;
+  
+}
+.pro{
+  padding-left: 12px;
+}
+.oneplus{
+  width: 400%;
+  padding-left: 50px;
+  margin-left: 700px;
+  padding-top: 0;
+  margin-top: -450px;
+  
+  
+}
+hr{
+  border-radius: 2px solid red ;
+}
+.high{
+  color: #F94C66;
+}
+.light{
+  color: #F94C66;
+}
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 10px 40px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-top: 10px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 100%;
+}
+.vl {
+  border-left: 1px solid  #dbe1ed;;
+  height: 500%;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  margin-top: 200px;
+  top: 0;
+}
+.flat{
+  max-width: 100rem;
+}
+.offer{
+  max-width: 100rem;
+  background-color: #ccc;
+}
+.mens{
+  max-width: 100rem;
+  margin-top: 10px;
+}
+.bg-image
+{
+  color: white;
+}
